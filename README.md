@@ -4,7 +4,7 @@
 
 This workshop shows AWS users how to use Amazon SageMaker and other associated services to build, train, and deploy generative AI models. These labs go through data science topics such as data processing at scale, model fine-tuning, real-time model deployment, and MLOps practices all through a generative AI lens.
 
-[![Chat Summarization App](img/chatsummarizationapp.png)]
+[Chat Summarization App](img/chatsummarizationapp.png)
 
 Distributed data processing
 ---------------------------
