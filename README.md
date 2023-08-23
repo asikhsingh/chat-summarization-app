@@ -47,10 +47,6 @@ After the data processing sections, we will build our FLAN-T5 based NLP model us
 * 05a. [Parameter-efficient fine-tuning with LoRA](./05a_LoRA_PEFT_Fine_Tune_Generative_AI_Model.ipynb)
 * 05b. [Fine-tuning for human alignment using reinforcement learning with human feedback (RLHF)](./05b_RLHF_Fine_Tune_Model_to_Detoxify_Summaries.ipynb)
 
-## O'Reilly Book:  Data Science on AWS
-This workshop is based on the O'Reilly Book, "Data Science on AWS", by Chris Fregly and Antje Barth @ AWS.
-
-[![Data Science on AWS](img/book_full_color_sm.png)](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/)
 
 ## Related Links
 * Website: https://datascienceonaws.com
