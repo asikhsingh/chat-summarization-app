@@ -1,8 +1,10 @@
-# Data Science on AWS
+# Chat Summarization App
 
 ## Description
 
 This workshop shows AWS users how to use Amazon SageMaker and other associated services to build, train, and deploy generative AI models. These labs go through data science topics such as data processing at scale, model fine-tuning, real-time model deployment, and MLOps practices all through a generative AI lens.
+
+[![Chat Summarization App](img/chatsummarizationapp.png)]
 
 Distributed data processing
 ---------------------------
@@ -46,6 +48,8 @@ After the data processing sections, we will build our FLAN-T5 based NLP model us
 -----------------------------------------------
 * 05a. [Parameter-efficient fine-tuning with LoRA](./05a_LoRA_PEFT_Fine_Tune_Generative_AI_Model.ipynb)
 * 05b. [Fine-tuning for human alignment using reinforcement learning with human feedback (RLHF)](./05b_RLHF_Fine_Tune_Model_to_Detoxify_Summaries.ipynb)
+
+
 
 
 ## Related Links
